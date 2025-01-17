@@ -7,13 +7,6 @@
   <a href="https://www.instagram.com/jeongminchan50?igsh=MTQxYmg0eDdtdmd3Mg=="><img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png"/></a>
 </p>
 
-## 📊 Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JMC50&show_icons=true&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMC50&layout=compact&theme=highcontrast"/>
-</p>
-
 ## 🎮 Skills
 
 <p align="center">

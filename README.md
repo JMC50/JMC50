@@ -3,7 +3,7 @@
 ## 📞 Contact
 
 <p align="center">
-  <a href="mailto:jeongminchan12345@gmail.com"><img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"/></a>
+  <a href="mailto:support@jmc50.kr"><img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"/></a>
   <a href="https://www.instagram.com/jeongminchan50?igsh=MTQxYmg0eDdtdmd3Mg=="><img height="40em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png"/></a>
 </p>
 

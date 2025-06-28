@@ -1,4 +1,4 @@
-# 👋 안녕하세요! JMC50입니다
+# 👋 안녕하세요! JMC50 입니다 !
 
 <!-- <div align="center">
   <img src="https://avatars.githubusercontent.com/u/81009441?v=4" alt="Profile" width="200" height="200" style="border-radius: 50%;"/>

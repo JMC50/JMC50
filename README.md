@@ -1,12 +1,12 @@
 # 👋 안녕하세요! JMC50입니다
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://avatars.githubusercontent.com/u/81009441?v=4" alt="Profile" width="200" height="200" style="border-radius: 50%;"/>
   
   학생 개발자 JMC50 입니다.
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JMC50)
-</div>
+</div> -->
 
 ---
 

@@ -114,7 +114,7 @@
         </p>
         <p align="center">
           <a href="https://github.com/JMC50/" target="_blank">
-            <img src="https://img.shields.io/badge/View%20Project-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="View Project"/>
+            <!-- <img src="https://img.shields.io/badge/View%20Project-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="View Project"/> -->
           </a>
         </p>
       </p>

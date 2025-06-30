@@ -152,6 +152,9 @@
   <a href="https://instagram.com/jeongminchan50">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://discord.gg/NSUKXN8R">
+    <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+  </a>
 </div>
 
 <!-- ---

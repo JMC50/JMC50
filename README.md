@@ -106,11 +106,11 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">?</h3>
+      <h3 align="center"></h3>
       <p align="center">
         <a href="https://github.com/JMC50/" target="_blank"></a>
         <p align="center">
-          ?
+          
         </p>
         <p align="center">
           <a href="https://github.com/JMC50/" target="_blank">

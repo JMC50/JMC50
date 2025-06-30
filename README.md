@@ -144,8 +144,3 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JMC50&style=flat-square&color=blue" alt="Profile Views"/>
-  
-  ### ⭐ Star this repository if you found it helpful!
-  
-  <img src="https://github.com/JMC50/JMC50/blob/main/giphy.gif" width="200" height="200" alt="Thank you!"/>
-</div>

@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">NAS</h3>
+      <h3 align="center">vlr.gg scrapper</h3>
       <p align="center">
         <a href="https://github.com/JMC50/vlrggapi" target="_blank"></a>
         <p align="center">
@@ -106,7 +106,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">NAS</h3>
+      <h3 align="center">?</h3>
       <p align="center">
         <a href="https://github.com/JMC50/" target="_blank"></a>
         <p align="center">

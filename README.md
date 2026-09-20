@@ -94,14 +94,14 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">vlr.gg scrapper</h3>
+      <h3 align="center">ComeT</h3>
       <p align="center">
-        <a href="https://github.com/JMC50/vlrggapi" target="_blank"></a>
+        <a href="https://github.com/JMC50/ComeT" target="_blank"></a>
         <p align="center">
-          Unofficial vlrgg match scrapper
+          디스코드 음악 봇 + 대시보드 + 음악 웹 앱
         </p>
         <p align="center">
-          <a href="https://github.com/JMC50/vlrggapi" target="_blank">
+          <a href="https://github.com/JMC50/ComeT" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="View Project"/>
           </a>
         </p>

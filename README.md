@@ -80,7 +80,7 @@
         <a href="https://github.com/JMC50/valtour" target="_blank">
         </a>
         <p align="center">
-          승부 예측, 포인트 관리, 예측 자동화 등을 포함한 디스코드 봇과 서버입니다. (비공개)
+          승부 예측, 포인트 관리, 예측 자동화 등을 포함한 디스코드 봇과 서버입니다.
         </p>
         <p align="center">
           <a href="https://github.com/JMC50/valtour" target="_blank">
@@ -106,15 +106,15 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">?</h3>
+      <h3 align="center">Stelinfo</h3>
       <p align="center">
-        <a href="https://github.com/JMC50/" target="_blank"></a>
+        <a href="https://github.com/JMC50/stelinfo" target="_blank"></a>
         <p align="center">
-          ?
+          스텔라이브 소속 스텔라들의 치지직 구독/팔로우 기간과 여러 정보를 조회할 수 있는 서비스입니다.
         </p>
         <p align="center">
-          <a href="https://github.com/JMC50/" target="_blank">
-            <!-- <img src="https://img.shields.io/badge/View%20Project-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="View Project"/> -->
+          <a href="https://github.com/JMC50/stelinfo" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="View Project"/>
           </a>
         </p>
       </p>

@@ -48,9 +48,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMC50&theme=radical" alt="GitHub Streak" />
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMC50&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+-->
 
 ---
 

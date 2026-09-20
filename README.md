@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMC50&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=JMC50&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JMC50&theme=radical" alt="GitHub Streak" />
 </div>
 
